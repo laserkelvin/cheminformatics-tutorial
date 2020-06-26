@@ -1,5 +1,7 @@
 # Introduction to Cheminformatics
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/laserkelvin/cheminformatics-tutorial/master)
+
 This repository contains some notebooks that will teach you how to get started
 with cheminformatics and machine learning in a notebook environment.
 
