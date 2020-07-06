@@ -2,3 +2,4 @@
 *.dat
 *.smi
 .vscode/
+*.npz
