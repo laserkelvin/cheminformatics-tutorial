@@ -1,0 +1,77 @@
+Molecule,Column Density ,Freq (Ghz),Paper,Notes,Notation,Column Density
+NO,2.7 +/- 0.5 10^14 cm^-2,150.546464,Gerin et al. 1993 ,,[N]=O,
+CO,7.8x10^3 (Rel. HCO+),115.271203,Pratap et al. 1997,Rel. HCO+,[C-]#[O+],
+CS,0.32 (Rel. HCO+),48.990968,Pratap et al. 1997,,[C-]#[S+],
+HCO+,,89.188523,Pratap et al. 1997,,C#[O+],
+N2H+,0.013 (Rel. HCO+),93.17383,Pratap et al. 1997,,[NH+]#N,
+CN,0.07 (Rel. HCO+),113.4.....,Pratap et al. 1997,,[C]#N,
+C2H,0.30 (Rel. HCO+),87.40....,Pratap et al. 1997,,C#[C],
+SO,0.13 (Rel. HCO+),99.299875,Pratap et al. 1997,,O=S,
+HCN,0.49 (Rel. HCO+),88.6318473,Pratap et al. 1997,,C#N,
+HNC,1.68 (Rel. HCO+),90.663593,Pratap et al. 1997,,[C-]#[NH+],
+CH3OH,0.099 (Rel. HCO+),96.7....,Pratap et al. 1997,,CO,
+HC3N,0.15 (Rel. HCO+),,Pratap et al. 1997,,C#CC#N,
+CH3CCH,0.22 (Rel. HCO+),102.54....,Pratap et al. 1997,,CC#C,
+SO2,,104.02942,Pratap et al. 1997,,O=S=O,
+NH3,2.77 (Rel. HCO+),23.7.....,,,N,
+CH3C4H,1.777 *10^14 cm^-2,20.357,Walmsley et al. 1984,,CC#CC#C,
+CS,0.32 (Rel. HCO+),48.990968,Pratap et al. 1997,,[C-]#[S+],
+HCS+,,,,,[CH+]=S,
+OCS,,,,,C(=O)=S,
+C4H,,,,,C#CC#[C],
+C5H,,,,,C1=C=[C]C#C1,
+C6H,,,,,C#CC#CC#[C],
+C3N,,,,,[C]#CC#N,
+CCO,,,,,[C+]#C[O-],
+C3O,,,,,C1#CC1=O,
+CCS,,,,,[C+]#C[S-],
+C3S,,,,,[C-]#CC#[S+],
+HCCNC,,,,,C#C[N+]#[C-],
+HNCCC,,,,,[C-]#C[C+]=N,
+HC3NH+,,,,,C#CC#[NH+],
+HC5N,,,,,C#CC#CC#N,
+HC7N,,,,,C#CC#CC#CC#N,
+HC9N,,,,,C#CC#CC#CC#CC#N,
+H2C3,,,,,[CH2+]C#[C-],
+H2C4,,,,,C=[C+]C#[C-],
+H2CO,,,,,C=O,
+H2CCO,12.68,,,,C=C=O,
+H2CS,,,,,C=S,
+CH2CN,,,,,[CH2]C#N,
+CH3CN,12.61,,,,CC#N,
+CH3C3N,,,,,CC#CC#N,
+CH3CHO,12.43,,,,CC=O,
+HCCCHO,,,,,C#CC=O,
+CH2CHCN,,,,,C=CC#N,
+C2O,<12.57,,,,[C+]#C[O-],
+H2CCN,13.58,,,,[CH2]C#N,
+HCC6N,2.5,,,,C#CC#CC#CC#N,
+HCOOCH3,<4.6,,,,COC=O,
+(CH3)2O,,,,,COC,
+HC5O,,,,,C#CC#C[C]=O,
+CH3C5N,,,,,CC#CC#CC#N,
+CH3C6H,,,,,CC#CC#CC#C,
+13CO,,110.20137,Pratap et al. 1997,,[13C-]#[O+],
+C18O,,109.782182,Pratap et al. 1997,,[C-]#[18O+],
+C34S,,96.412962,Pratap et al. 1997,,[34C-]#[S+],
+H13CO+,,86.754329,Pratap et al. 1997,,13C#[O+],
+34SO,,97.71539,Pratap et al. 1997,,O=34S,
+H13CN,,86.340184,Pratap et al. 1997,,13C#N,
+HN13C,,87.090851,Pratap et al. 1997,,[13C-]#[NH+],
+l-C3H2,,,,Same as (H2C3),[CH2+]C#[C-],11.77
+l-C3H,,,,,[CH+]=C=[C-],12.75
+c-C3H,,,,,C1=C=[C]1,13.48
+c-C3H2,,,,,C1C#C1,13.27
+HC613CN,,,,,C#CC#CC#C13C#N,2.6
+HC513CCN,,,,,C#CC#CC#13CC#N,2.1
+HC413CC2N,,,,,C#CC#C13C#CC#N,1.6
+HC313CC3N,,,,,C#CC#13CC#CC#N,1.8
+HC213CC4N,,,,,C#C13C#CC#CC#N,2
+HC13CC5N,,,,,C#13CC#CC#CC#N,<2.2
+HC515N,,,,,C#CC#CC#15N,4.6
+HC413CN,,,,,C#CC#C13C#N,4.4
+HC313CCN,,,,,C#CC#13CC#N,5.3
+HC213CC2N,,,,,C#C13C#CC#N,3.4
+HC13CC3N,,,,,C#13CC#CC#N,4.8
+H13CC4N,,,,,13C#CC#CC#N,5.3
+c-C3H2O ,,,,Cyclopropene,C1=CC1=O,
