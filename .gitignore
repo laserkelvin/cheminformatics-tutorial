@@ -3,3 +3,5 @@
 *.smi
 .vscode/
 *.npz
+*.h5
+dask-worker-space/

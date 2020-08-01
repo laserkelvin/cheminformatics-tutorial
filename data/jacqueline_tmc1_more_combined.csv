@@ -1,0 +1,61 @@
+Molecule,Column Density ,Notation,,Paper
+NO,14.43,[N]=O,,Gerin et al. 1993 
+CO,10.19,[C-]#[O+],,Pratap et al. 1997
+CS,11.81,[C-]#[S+],,Pratap et al. 1997
+HCO+,12.3,C#[O+],,Pratap et al. 1997
+N2H+,10.41,[NH+]#N,,Pratap et al. 1997
+CN,11.15,[C]#N,,Pratap et al. 1997
+C2H,11.78,C#[C],,Pratap et al. 1997
+SO,>13.67,O=S,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HCN,10.52,[C-]#[NH+],,Pratap et al. 1997
+HNCO,13.03,C(=N)=O,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH3OH,13.16,CO,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HC3N,14.37,C#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH3CCH,14.06,CC#C,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+SO2,11.78,O=S=O,https://www.aanda.org/articles/aa/pdf/2011/07/aa16216-10.pdf,Pratap et al. 1997
+NH3,14.7,N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH3C4H,13.17,CC#CC#C,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CS,<13.46,[C-]#[S+],,Pratap et al. 1997
+HCS+,12.76,[CH+]=S,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+OCS,<13.26,C(=O)=S,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+C4H,13.43,C#CC#[C],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+C5H,12.27,C1=C=[C]C#C1,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+C6H,12.74,C#CC#CC#[C],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+C3N,13.55,[C]#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CCO,11.78,[C+]#C[O-],"https://europepmc.org/article/med/11538087#:~:text=Share%20this%20article-,Abstract,(11)%20cm%2D2.",
+C3O,11.92,C1#CC1=O,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CCS,,[C+]#C[S-],,
+C3S,13.14,[C-]#CC#[S+],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HCCNC,12.93,C#C[N+]#[C-],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HNCCC,11.36,[C-]#C[C+]=N,"https://ui.adsabs.harvard.edu/abs/1992ApJ...396L..49K/abstract#:~:text=The%20column%20density%20of%20HNCCC,smaller%20than%20that%20of%20HCCCN.",
+HC3NH+,11.87,C#CC#[NH+],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HC5N,13.77,C#CC#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HC7N,13.66,C#CC#CC#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HC9N,13.02,C#CC#CC#CC#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+H2C3,,[CH2+]C#[C-],,
+H2C4,,C=[C+]C#[C-],,
+H2CO,,C=O,,
+H2CCO,12.68,C=C=O,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+H2CS,13.62,C=S,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH2CN,,[CH2]C#N,,
+CH3CN,12.61,CC#N,,
+CH3C3N,11.99,CC#CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH3CHO,12.43,CC=O,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HCCCHO,11.26,C#CC=O,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+CH2CHCN,12.81,C=CC#N,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+C2O,<12.57,[C+]#C[O-],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+H2CCN,13.58,[CH2]C#N,,
+HCC6N,2.5,C#CC#CC#CC#N,,
+HCOOCH3,<4.6,COC=O,,
+(CH3)2O,12.28,COC,https://iopscience.iop.org/article/10.3847/1538-4357/aaa70c/pdf,
+HC5O,12.23,C#CC#C[C]=O,https://arxiv.org/pdf/1706.09766.pdf,
+CH3C5N,12.57,CC#CC#CC#N,https://iopscience.iop.org/article/10.1086/505323/pdf,
+CH3C6H,,CC#CC#CC#C,,
+C18O,,[C-]#[18O+],,Pratap et al. 1997
+C34S,12.7,[34C-]#[S+],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+HN13C,12.45,[13C-]#[NH+],https://iopscience.iop.org/article/10.1086/376970/fulltext/58029.tb4.html,Pratap et al. 1997
+l-C3H2,11.77,[CH2+]C#[C-],,
+l-C3H,12.75,[CH+]=C=[C-],,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+c-C3H,13.48,C1=C=[C]1,,https://iopscience.iop.org/article/10.3847/0067-0049/225/2/25/pdf
+c-C3H2,13.27,C1C#C1,,
+c-C3H2O ,10.73,C1=CC1=O,https://arxiv.org/ftp/arxiv/papers/1512/1512.01582.pdf,
